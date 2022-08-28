@@ -8,6 +8,7 @@
 * [axios](https://axios-http.com/kr/docs/intro)
 # 구현 기능
 ---
+[로그인화면](![ezgif com-gif-maker](https://user-images.githubusercontent.com/61959111/187070395-477fe2cd-e800-44a4-bd45-6559b35c208a.gif)
 1. 로그인
 	* [세션유지 참고 페이지](https://kdinner.tistory.com/60)
 	* [Vue.js JWT 기반 사용자인증 참고 페이지](https://www.bottlehs.com/vue/vue-js-jwt-%EA%B8%B0%EB%B0%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D/)
