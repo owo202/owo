@@ -10,6 +10,7 @@
 ---
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/61959111/187070395-477fe2cd-e800-44a4-bd45-6559b35c208a.gif)
 ![social](https://user-images.githubusercontent.com/61959111/187070877-ad36312f-053c-4e7e-939c-635bfbf0e75c.gif)
+
 1. 로그인 & 소셜로그인(카카오 예시)
 	* [세션유지 참고 페이지](https://kdinner.tistory.com/60)
 	* [Vue.js JWT 기반 사용자인증 참고 페이지](https://www.bottlehs.com/vue/vue-js-jwt-%EA%B8%B0%EB%B0%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D/)
@@ -18,33 +19,35 @@
     
     * 이메일 인증이 필요한 회원의 경우 alert으로 이메일 인증이 필요하다고 알려준다.
     * 비밀번호 혹은 이메일이 틀렸을 경우 alert으로 "이메일 혹은 비밀번호를 확인해 주세요"라고 알려준다.
-    ---
+---
 ![logout](https://user-images.githubusercontent.com/61959111/187070696-bf99d38a-1269-43d6-b610-c4786d8f670f.gif)
+
 2. 로그아웃
 	* 로그아웃 시, 세션스토리지에 있는 모든 정보와 vuex의 store, accessToken, refreshToken을 모두 초기화한다.
-    * 이후, 메인페이지로 이동한다.
-    ---
+    	* 이후, 메인페이지로 이동한다.
+---
 ![signup](https://user-images.githubusercontent.com/61959111/187070724-f2552361-25bb-42a5-927b-f0a07aac1f12.gif)
+
 3. 회원가입
 	* 이메일과 비밀번호을 입력하고 회원가입 버튼을 누르면 서버에 해당 정보를 POST 요청으로 보내고, 서버는 이메일 인증이 필요하다는 이메일을 전송한다.
-    * 사용자는 이메일 인증을 하면 오운완의 모든 서비스를 이용할 수 있다.
-    * 중복된 이메일인 경우 중복된 이메일입니다 라는 메시지를 alert으로  사용자에게 알려준다.
-    * 서버의 문제로 회원가입이 실패하면, 서버의 문제로 회원가입이 실패했습니다 라는 메시지를 alert으로 사용자에게 알려준다.
-    ---
+    	* 사용자는 이메일 인증을 하면 오운완의 모든 서비스를 이용할 수 있다.
+    	* 중복된 이메일인 경우 중복된 이메일입니다 라는 메시지를 alert으로  사용자에게 알려준다.
+    	* 서버의 문제로 회원가입이 실패하면, 서버의 문제로 회원가입이 실패했습니다 라는 메시지를 alert으로 사용자에게 알려준다.
+---
 ![mainpage](https://user-images.githubusercontent.com/61959111/187070737-c2cb562b-dfa5-4ba6-befa-637fcf385ddf.gif)
+
 4. 메인페이지
 	* 공개로 설정한 회원들의 최신 운동 완료 사진 10장을 axios로 서버에 요청을 하고, 이를 carousel을 통해 보여준다
-    * 서버에 get 요청을 통해 랭킹 1 ~ 3위의 회원 정보를 가져와 보여준다.
-    * 자신의 랭킹을 보여준다.
-    * 자신의 운동 지속일, 해당 지속일을 7로 나눈 값을 퍼센트로 변환해 원형 progress bar로 보여준다
-    ---
+    	* 서버에 get 요청을 통해 랭킹 1 ~ 3위의 회원 정보를 가져와 보여준다.
+    	* 자신의 랭킹을 보여준다.
+    	* 자신의 운동 지속일, 해당 지속일을 7로 나눈 값을 퍼센트로 변환해 원형 progress bar로 보여준다
+ ---
 
 5. routerGuard를 이용한 잘못된 경로 접근, 권한이 필요한 페이지의 접근 제한
-    * vue router로 특정 URL에 접근할 때 해당 URL의 접근을 막는 방법.
-	 사용자가 잘못된 URL을 입력하여 이동 시, 잘못된 경로입니다 라는 메시지를 alert 을 통해 알려준다.
-    * 권한이 없는 사용자가 권한이 필요한 페이지에 접근 시, 로그인이 필요합니다 라는 메시지를 alert을 통해 알려주고 로그인 페이지로 이동한다.
-    * [router Guard에 대한 참고 페이지](https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/)
-    * 구현 router Guard 코드(리팩토링 필요)
+	    * vue router로 특정 URL에 접근할 때 해당 URL의 접근을 막는 방법. 사용자가 잘못된 URL을 입력하여 이동 시, 잘못된 경로입니다 라는 메시지를 alert 을 통해 알려준다.
+	    * 권한이 없는 사용자가 권한이 필요한 페이지에 접근 시, 로그인이 필요합니다 라는 메시지를 alert을 통해 알려주고 로그인 페이지로 이동한다.
+	    * [router Guard에 대한 참고 페이지](https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/)
+	    * 구현 router Guard 코드(리팩토링 필요)
     ```javascript
       router.beforeEach((to, from, next) => {
         const token = sessionStorage.getItem('accessToken');
