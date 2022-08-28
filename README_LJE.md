@@ -5,6 +5,8 @@
 ![token](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/944cd1df-6191-433d-b10e-547cfeda6877/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220828%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220828T115116Z&X-Amz-Expires=86400&X-Amz-Signature=edbd80a7236ed34ca0c9cc4c2aa80ae1c6585ec7b8b8df1197e8d41d0e730f49&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
+
+
 ## 예외 처리
 + @ControllerAdvice로 모든 예외를 한 곳에서 처리
 ```
