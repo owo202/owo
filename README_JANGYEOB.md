@@ -26,6 +26,7 @@
     * 이후, 메인페이지로 이동한다.
 ---
 ![signup](https://user-images.githubusercontent.com/61959111/187070724-f2552361-25bb-42a5-927b-f0a07aac1f12.gif)
+![verify](https://user-images.githubusercontent.com/61959111/187071240-0c735f86-e30e-46ec-bbba-36a921b0fe9c.gif)
 
 3. 회원가입
 	* 이메일과 비밀번호을 입력하고 회원가입 버튼을 누르면 서버에 해당 정보를 POST 요청으로 보내고, 서버는 이메일 인증이 필요하다는 이메일을 전송한다.
@@ -41,6 +42,8 @@
     * 자신의 랭킹을 보여준다.
     * 자신의 운동 지속일, 해당 지속일을 7로 나눈 값을 퍼센트로 변환해 원형 progress bar로 보여준다
  ---
+ 
+![404](https://user-images.githubusercontent.com/61959111/187071142-1e4efd45-83a5-490c-90a3-3b3fb32e9509.gif)
 
 5. routerGuard를 이용한 잘못된 경로 접근, 권한이 필요한 페이지의 접근 제한
 	* vue router로 특정 URL에 접근할 때 해당 URL의 접근을 막는 방법. 사용자가 잘못된 URL을 입력하여 이동 시, 잘못된 경로입니다 라는 메시지를 alert 을 통해 알려준다.
@@ -130,6 +133,13 @@
         });
       }
     }
-      ```
+ 	```
+---
+![roomtab](https://user-images.githubusercontent.com/61959111/187071484-7423749a-ef2f-4241-9a46-27e5b472591a.gif)
+![createroom](https://user-images.githubusercontent.com/61959111/187071531-420b7da1-28e8-43cb-9b9b-3ec6adf039bc.gif)
 
-    
+8. 운동방 목록 & 생성 페이지
+	* 생성되어 있는 운동방들을 운동 모드에 따라 탭 메뉴로 나누어서 보여준다.
+	* 탭 버튼들을 누르면 각 모드 별 방 목록들이 출력되어 보여진다.
+	* 방 만들기 버튼을 누르면 방을 생성할 수 있다.
+	* 비밀방 생성도 가능하다.
