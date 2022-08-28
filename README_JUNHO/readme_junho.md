@@ -1,5 +1,7 @@
 # 운동 방
 
+#### 
+
 #### 1. 방 입장하기 화면
 
 - 운동방 입장하기
@@ -7,6 +9,8 @@
   ![junho-room-0](https://user-images.githubusercontent.com/97590478/187077615-2e19ec4f-ccb0-45d0-a177-173103471183.jpg)
   
   * 운동 방 종류 선택할 시 색상 및 커서 변화
+
+#### 
 
 #### 2. 방 만들기
 
@@ -43,6 +47,8 @@
   * 경쟁방의 경우, 운동 종류는 게임 뿐이며 비밀 방 설정 불가능
   
   * 방 만드는 사람의 티어(브론즈~다이아)로 방이 생성됨
+
+## 
 
 ## 3. 영상모드(영상보며 운동하기)
 
@@ -131,11 +137,13 @@
   
   ![junho-room-10-운동일지](https://user-images.githubusercontent.com/97590478/187077703-70787abb-c8b4-4fee-9779-90c207338843.gif)
 
+## 
+
 ## 4. 자유 모드(자유롭게 운동하기)
 
 * 자유방 입장하기
   
-  ![junho-room-8.jpg](C:\Users\nak36\SSAFY_7th_LEEJUNHO\3.%202학기\01.%20공통프로젝트\오운완\owo\asset\사진\junho-room-8.jpg)
+  ![junho-room-8](https://user-images.githubusercontent.com/97590478/187077963-238fd890-6e6f-429b-96a7-fc1afc0ee26d.jpg)
   
   * 운동 종류에 따른 일러스트 표현
   
@@ -151,5 +159,7 @@
   ![junho-room-11-자유운동2인](https://user-images.githubusercontent.com/97590478/187077708-cb5659c6-1a08-4766-a084-35f7d4533ceb.gif)
   
   ![junho-room-12-자유운동4인](https://user-images.githubusercontent.com/97590478/187077710-940bffc1-06f2-408f-83a1-5af5d5f98619.gif)
-  
-  ## 5. 경쟁 모드(경쟁하며 운동하기)
+
+## 
+
+## 5. 경쟁모드(경쟁하며 운동하기)
