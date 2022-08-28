@@ -1,5 +1,3 @@
-
-
 # 마이페이지
 
 ![마이페이지 메인 사진.png](C:\Users\baekh\Desktop\ssafy\owo\github\owo\README_Hanna\owo%20gif\마이페이지%20메인%20사진.png)
@@ -14,13 +12,13 @@
 
 - **슬로건** : 운동 목표, 슬로건, 다짐 등을 입력하여 마이페이지 메인에서 저장, 확인, 변경할 수 있다.
   
-  <img src="file:///C:/Users/baekh/Desktop/ssafy/owo/github/owo/README_Hanna/owo%20gif/update%20slogan.gif" title="" alt="update slogan.gif" width="390">
+  ![update slogan.gif](C:\Users\baekh\Desktop\ssafy\owo\github\owo\README_Hanna\owo%20gif\update%20slogan.gif)
   
   
+  
+  **프로필 이미지** : 자신의 프로필 이미지를 등록할 수 있고, 메인 Nav에서 확인 가능하다. 20mb까지만 수용한다.
 
-- **프로필 이미지** : 자신의 프로필 이미지를 등록할 수 있고, 메인 Nav에서 확인 가능하다. 20mb까지만 수용한다.
-  
-  <img src="file:///C:/Users/baekh/Desktop/ssafy/owo/github/owo/README_Hanna/owo%20gif/update%20profile%20image.gif" title="" alt="update profile image.gif" width="510">
+- <img src="file:///C:/Users/baekh/Desktop/ssafy/owo/github/owo/README_Hanna/owo%20gif/update%20profile%20image.gif" title="" alt="update profile image.gif" width="510">
 
 ### 2. **운동 기록 관련 API**
 
@@ -32,13 +30,13 @@
   
   경쟁모드를 통해 얻은 포인트를 통해 운동 레벨, 티어가 결정된다.
   
-  ![](C:\Users\baekh\AppData\Roaming\marktext\images\2022-08-28-16-51-15-image.png)
+  ![운동레벨.png](C:\Users\baekh\Desktop\ssafy\owo\github\owo\README_Hanna\owo%20gif\운동레벨.png)
   
   - 티어 
     
     전체 사용자 중 20%씩 브론즈, 실버, 골드, 플레티넘, 다이아로 구성된다.
     
-    <img src="file:///C:/Users/baekh/AppData/Roaming/marktext/images/2022-08-28-16-47-11-image.png" title="" alt="" width="329">
+    ![tier.png](C:\Users\baekh\Desktop\ssafy\owo\github\owo\README_Hanna\owo%20gif\tier.png)
   
   - 레벨
     
@@ -69,6 +67,10 @@
 달력에서 기록이 있는 날짜에 파란색 점이 표시되어 쉽게 확인 가능하다.
 
 <img src="file:///C:/Users/baekh/Desktop/ssafy/owo/github/owo/README_Hanna/owo%20gif/calendar.gif" title="" alt="calendar.gif" width="678">
+
+메인페이지 랭킹탭에서도 동일하게 확인할 수 있다.
+
+![메인-랭킹탭 캘린더.gif](C:\Users\baekh\Desktop\ssafy\owo\github\owo\README_Hanna\owo%20gif\메인-랭킹탭%20캘린더.gif)
 
 
 
