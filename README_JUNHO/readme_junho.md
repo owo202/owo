@@ -10,11 +10,11 @@
 
 * 방 만들기 탭
   
-  ![junho-room-1.jpg](C:\Users\nak36\SSAFY_7th_LEEJUNHO\3.%202학기\01.%20공통프로젝트\오운완\owo\asset\사진\junho-room-1.jpg)
+  https://user-images.githubusercontent.com/97590478/187077396-f06b1eb9-1dcb-4a3f-8d30-7999dbe265d2.jpg
 
 * ###### 영상방 만들기
   
-  ![bandicam 2022-08-28 21-07-06-979.jpg](C:\Users\nak36\Desktop\반디캠\bandicam%202022-08-28%2021-07-06-979.jpg)
+  https://user-images.githubusercontent.com/97590478/187077399-1ee5ce9f-09da-4fba-b703-95e9a81e5711.jpg
   
   * 방 이름
   
@@ -28,7 +28,7 @@
 
 * ###### 자유방 만들기
   
-  ![bandicam 2022-08-28 21-16-14-086.jpg](C:\Users\nak36\Desktop\반디캠\bandicam%202022-08-28%2021-16-14-086.jpg)
+  https://user-images.githubusercontent.com/97590478/187077403-b18212fe-c7ff-49a1-a68d-8ae1572b76a7.jpg
   
   * 방 이름, 모드, 운동 종류 설정 가능
   
@@ -36,7 +36,7 @@
 
 * ###### 경쟁방 만들기
   
-  ![bandicam 2022-08-28 21-17-33-788.jpg](C:\Users\nak36\Desktop\반디캠\bandicam%202022-08-28%2021-17-33-788.jpg)
+  https://user-images.githubusercontent.com/97590478/187077405-bb3bed09-977c-4083-bafa-44b4d4fa738c.jpg
   
   * 경쟁방의 경우, 운동 종류는 게임 뿐이며 비밀 방 설정 불가능
   
