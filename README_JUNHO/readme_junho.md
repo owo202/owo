@@ -10,11 +10,11 @@
 
 * 방 만들기 탭
   
-  https://user-images.githubusercontent.com/97590478/187077396-f06b1eb9-1dcb-4a3f-8d30-7999dbe265d2.jpg
+  ![](https://user-images.githubusercontent.com/97590478/187077396-f06b1eb9-1dcb-4a3f-8d30-7999dbe265d2.jpg)
 
 * ###### 영상방 만들기
   
-  https://user-images.githubusercontent.com/97590478/187077399-1ee5ce9f-09da-4fba-b703-95e9a81e5711.jpg
+  ![](https://user-images.githubusercontent.com/97590478/187077399-1ee5ce9f-09da-4fba-b703-95e9a81e5711.jpg)
   
   * 방 이름
   
@@ -28,7 +28,7 @@
 
 * ###### 자유방 만들기
   
-  https://user-images.githubusercontent.com/97590478/187077403-b18212fe-c7ff-49a1-a68d-8ae1572b76a7.jpg
+  ![](https://user-images.githubusercontent.com/97590478/187077403-b18212fe-c7ff-49a1-a68d-8ae1572b76a7.jpg)
   
   * 방 이름, 모드, 운동 종류 설정 가능
   
@@ -36,7 +36,7 @@
 
 * ###### 경쟁방 만들기
   
-  https://user-images.githubusercontent.com/97590478/187077405-bb3bed09-977c-4083-bafa-44b4d4fa738c.jpg
+  ![](https://user-images.githubusercontent.com/97590478/187077405-bb3bed09-977c-4083-bafa-44b4d4fa738c.jpg)
   
   * 경쟁방의 경우, 운동 종류는 게임 뿐이며 비밀 방 설정 불가능
   
