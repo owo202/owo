@@ -16,15 +16,15 @@
 
 <p align='center'>
   기술스택 버전 쪽은 노션 기술스택 참고하여 버전까지 기록 예정
+  프론트, 백 분야 추가 예정..
+  <br>
   <img src='https://img.shields.io/badge/Vue 3-v5.0.8-4FC08D?logo=Vue.js'/>
   <img src='https://img.shields.io/badge/Node.js-v16.16.0-339933?logo=Node.js'/>
   <img src='https://img.shields.io/badge/Bootstrap 5-v5.1.3-7952B3?logo=Bootstrap'/>
   <img src='https://img.shields.io/badge/Axios-v0.27.2-5A29E4?logo=Axios'/>
-  프론트 분야 추가 예정..
   <br>
   <img src='https://img.shields.io/badge/socket.io-v4.4.1-white?logo=Socket.io'/>
   <img src='https://img.shields.io/badge/SpringBoot-v2.7.3-6DB33F?logo=Spring Boot'/>
-  백 분야 추가 예정..
 </p>
 
 <br/>
@@ -148,4 +148,4 @@
 
 ## 💡주요 기능
 
-여기에 + 노션 정리까지 하고 마무리하겠습니다..
+여기에 + 노션 정리까지 하고 진짜로 마무리하겠습니다..
