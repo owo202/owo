@@ -15,8 +15,9 @@
 </div>
 
 <p align='center'>
-  기술스택 버전 쪽은 노션 기술스택 참고하여 버전까지 기록 예정
-  프론트, 백 분야 추가 예정..
+  메인에 기술스택 버전은 노션 기술스택 참고하여 기록
+  <br>
+  프론트, 백 둘다 내용 더 추가 예정..
   <br>
   <img src='https://img.shields.io/badge/Vue 3-v5.0.8-4FC08D?logo=Vue.js'/>
   <img src='https://img.shields.io/badge/Node.js-v16.16.0-339933?logo=Node.js'/>
@@ -148,4 +149,4 @@
 
 ## 💡주요 기능
 
-여기에 + 노션 정리까지 하고 진짜로 마무리하겠습니다..
+여기에 + 노션 정리까지 하고 진짜로 오운완 보내주겠습니다..
