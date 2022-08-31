@@ -13,9 +13,7 @@
 - **슬로건** : 운동 목표, 슬로건, 다짐 등을 입력하여 마이페이지 메인에서 저장, 확인, 변경할 수 있다.
   
   ![update slogan.gif](C:\Users\baekh\Desktop\ssafy\owo\github\owo\README_Hanna\owo%20gif\update%20slogan.gif)
-  
-  
-  
+
   **프로필 이미지** : 자신의 프로필 이미지를 등록할 수 있고, 메인 Nav에서 확인 가능하다. 20mb까지만 수용한다.
 
 - <img src="file:///C:/Users/baekh/Desktop/ssafy/owo/github/owo/README_Hanna/owo%20gif/update%20profile%20image.gif" title="" alt="update profile image.gif" width="510">
@@ -66,13 +64,13 @@
 
 달력에서 기록이 있는 날짜에 파란색 점이 표시되어 쉽게 확인 가능하다.
 
+https://user-images.githubusercontent.com/97646914/187566292-5ddcf5d9-929f-4d53-9a04-9071bc3834fe.gifhttps://user-images.githubusercontent.com/97646914/187566292-5ddcf5d9-929f-4d53-9a04-9071bc3834fe.gif
+
 <img src="file:///C:/Users/baekh/Desktop/ssafy/owo/github/owo/README_Hanna/owo%20gif/calendar.gif" title="" alt="calendar.gif" width="678">
 
 메인페이지 랭킹탭에서도 동일하게 확인할 수 있다.
 
 ![메인-랭킹탭 캘린더.gif](C:\Users\baekh\Desktop\ssafy\owo\github\owo\README_Hanna\owo%20gif\메인-랭킹탭%20캘린더.gif)
-
-
 
 ### 4. 사용자 정보 분석
 
@@ -80,5 +78,3 @@
 
 신체 정보(나이, 성별, 키, 몸무게, 활동량)를 추가적으로 입력하여 저장할 경우,
 BMI, BMR, 하루섭취 권장 칼로리가 바로 계산되어 쉽게 분석받을 수 있다.
-
-
