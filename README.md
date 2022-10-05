@@ -15,9 +15,9 @@
 </div>
 
 <p align='center'>
-  메인에 기술스택 버전은 노션 기술스택 참고하여 기록
+  메인에 기술스택 버전은 노션 기술스택 참고하여 기록 예정
   <br>
-  프론트, 백 둘다 내용 더 추가 예정..
+  포트폴리오 WEEK에 작성 예정
   <br>
   <img src='https://img.shields.io/badge/Vue 3-v5.0.8-4FC08D?logo=Vue.js'/>
   <img src='https://img.shields.io/badge/Node.js-v16.16.0-339933?logo=Node.js'/>
@@ -27,6 +27,7 @@
   <img src='https://img.shields.io/badge/socket.io-v4.4.1-white?logo=Socket.io'/>
   <img src='https://img.shields.io/badge/SpringBoot-v2.7.3-6DB33F?logo=Spring Boot'/>
 </p>
+
 
 <br/>
 
@@ -143,10 +144,23 @@
 <br/>
 
 ## ⚙기술 스택
-기술스택, 주요 기능 -> 주말 내 작성 예정..
+~~포트폴리오 WEEK 작성 예정~~
 
 <br/>
 
 ## 💡주요 기능
 
-여기에 + 노션 정리까지 하고 진짜로 오운완 보내주겠습니다..
+~~포트폴리오 WEEK 작성 예정~~
+
+팀원 README 합산 예정
+
+| <div align="center">Name</div> | <div align="center">README.md</div>                            |
+| ----------------------------- | ------------------------------------------------------------ |
+| <div align="center">이준호</div>   | [README_JUNHO](https://github.com/owo202/owo/blob/main/README_JUNHO/readme_junho.md) |
+| <div align="center">나장엽</div>   | [README_JANGYEOB](https://github.com/owo202/owo/blob/main/README_JANGYEOB.md) |
+| <div align="center">백한나</div>   | [README_HANNA](https://github.com/owo202/owo/blob/main/README_Hanna/hanna.md) |
+| <div align="center">안다슬</div>   | [README_Daseul](https://github.com/owo202/owo/blob/main/README_Daseul.md) |
+| <div align="center">이승희</div>   | [README_LSH](https://github.com/owo202/owo/blob/main/READ_ME_LSH.md) |
+| <div align="center">이지은</div>   | [README_LJE](https://github.com/owo202/owo/blob/main/README_LJE.md) |
+
+<br/>
